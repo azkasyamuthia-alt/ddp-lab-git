@@ -1,5 +1,4 @@
-nama = "Azkasya Muthia Ulya"
-npm = "2606858992"
+nama = input("Masukkan nama kamu: ")
 
-print("Halo, nama saya", nama)
-print("NPM saya", npm)
+print("Halo,", nama)
+print("Selamat datang di praktikum Git!")
